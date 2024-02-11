@@ -140,13 +140,13 @@
     width:200px;
   }
   .notes:before {
-    content:"Günümüz";
+    content:"ÇOOOOK";
     top:30px;
     color: #d04e4e;
     font-family: 'Protest Riot', sans-serif;
   }
   .notes:after {
-    content:"Kutlu Olsun!";
+    content:"Seviyorum!";
     top:60px;
     font-family: 'Protest Riot', sans-serif;
   }
